@@ -1,0 +1,103 @@
+<!Doctype html>
+  <html>
+   <head>
+<title>COURSE CURRICULUM</title>
+   </head>
+<body>
+
+   <u> ordered list</u>
+        
+            <h1><b> Fundamental Of Linear Algebra and Statistics</b></h1>
+     <ol>
+        <li>Unit 1 : Vector Spaces</li>
+        <li>Unit 2:Linear Transformation</li>
+        <li>Unit 3: Matrices and Application</li>
+
+        
+    </ol>
+
+   <u>unordered list</u>
+        
+        <h1><b>C++ Programming</b></h1>
+    <ul>
+    <li>Unit 1: Introduction to components of a computer system</li>
+    <li>Unit 2: Tokens in C++</li>
+    <li>Unit 3: Iteration and loops</li>
+        
+    </ul>
+
+<u>Descriptive list</u>
+        
+        <h1><b>Basics Of Electronic Engineering</b></h1>
+        <dl>
+    <dt>Unit 1 : Diode and its Applications</dt>
+
+    <dd>How a diode works. Common Types of diode and main application</dd>
+
+    <dt>Unit 2 : Transistor and Its Applications</dt>
+       <dd>How a transistor works.Bipolar junction transistor(BJT),Field-effect Transistors(FETs/MOSFETs),
+         key Applications</dd>
+
+    <dt>Unit 3 : Digital Electronics</dt>
+      <dd>core elements of Digital Electronics: Logic gates,combinational gates or logic circuits,sequential logic circuits Electronic</dd>
+        
+    </dl>
+
+<u>NESTED LIST</u>
+
+<h1><b>DESIGN THINKING</b></h1>
+<ol>
+    <li>Unit 1 : Design Thinking Introduction
+    <ul>
+        <li>conventional problem solving v/s Design Thinking</li>
+        <li>Business Uses of Design Thinking</li>
+        <li>Formation and Importance of Designing Thinking Team</li>
+        <li>Case Study :
+    
+        
+    
+       <ul>
+          <li>Mumbai Dabbawallahs</li>
+          <li>Tata Nano</li>
+          <li>Jeevan Bindi</li>
+       </li>
+       </ul>
+    </li>
+       <li> Unit 2 : Design Thinking Approaches in Stages</li>
+       <li> Unit 3  : Listening and empathizing techniques</li>
+       <li> Unit 4 : Concept of Innovation</li>
+       <li> Unit 5 : Introduction of IPR</li>
+
+</ol>
+
+<u>MIXED LIST</u>
+
+<h1><b>SOFT SKILLS</b></h1>
+
+<ul> 
+    <li>Unit 1 : Vocabulary building 
+       <ul>
+        <li> Word Formation
+       
+       
+          <ul>
+            <li>Root word</li>
+            <li>Bound words</li>
+            <li>Affixes</li>
+          
+          </ul>
+        </li>
+     <li>Vocabulary building</li>
+     <li>Subject Verb Agreement</li>
+        
+       </ul>
+    </li>
+
+    <li>Unit 2 : Listening Skills</li>
+    <li>Unit 3 : Speaking Skills</li>
+
+</ul>
+
+</body>
+
+  </html>
